@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main(){
     //Print numbers 1-10
     int i = 0;
